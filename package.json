@@ -1,5 +1,11 @@
 {
   "name": "teller",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^4.0.7",
+    "vuedraggable": "^2.23.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.7.2"
+  }
 }
